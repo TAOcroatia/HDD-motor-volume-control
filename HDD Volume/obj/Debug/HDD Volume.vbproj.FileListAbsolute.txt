@@ -1,0 +1,24 @@
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\HDD Volume\bin\Debug\HDD Volume.exe.config
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\HDD Volume\bin\Debug\HDD Volume.exe
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\HDD Volume\bin\Debug\HDD Volume.pdb
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\HDD Volume\bin\Debug\HDD Volume.xml
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\HDD Volume\obj\Debug\HDD Volume.vbprojAssemblyReference.cache
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\HDD Volume\obj\Debug\HDD_Volume.Form1.resources
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\HDD Volume\obj\Debug\HDD_Volume.Resources.resources
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\HDD Volume\obj\Debug\HDD Volume.vbproj.GenerateResource.cache
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\HDD Volume\obj\Debug\HDD Volume.vbproj.CoreCompileInputs.cache
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\HDD Volume\obj\Debug\HDD Volume.exe
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\HDD Volume\obj\Debug\HDD Volume.xml
+C:\Users\TAO_Croatia\AppData\Local\Temporary Projects\HDD Volume\obj\Debug\HDD Volume.pdb
+C:\Users\TAO_Croatia\source\repos\HDD Volume\HDD Volume\bin\Debug\HDD Volume.exe.config
+C:\Users\TAO_Croatia\source\repos\HDD Volume\HDD Volume\bin\Debug\HDD Volume.exe
+C:\Users\TAO_Croatia\source\repos\HDD Volume\HDD Volume\bin\Debug\HDD Volume.pdb
+C:\Users\TAO_Croatia\source\repos\HDD Volume\HDD Volume\bin\Debug\HDD Volume.xml
+C:\Users\TAO_Croatia\source\repos\HDD Volume\HDD Volume\obj\Debug\HDD Volume.vbprojAssemblyReference.cache
+C:\Users\TAO_Croatia\source\repos\HDD Volume\HDD Volume\obj\Debug\HDD_Volume.Form1.resources
+C:\Users\TAO_Croatia\source\repos\HDD Volume\HDD Volume\obj\Debug\HDD_Volume.Resources.resources
+C:\Users\TAO_Croatia\source\repos\HDD Volume\HDD Volume\obj\Debug\HDD Volume.vbproj.GenerateResource.cache
+C:\Users\TAO_Croatia\source\repos\HDD Volume\HDD Volume\obj\Debug\HDD Volume.vbproj.CoreCompileInputs.cache
+C:\Users\TAO_Croatia\source\repos\HDD Volume\HDD Volume\obj\Debug\HDD Volume.exe
+C:\Users\TAO_Croatia\source\repos\HDD Volume\HDD Volume\obj\Debug\HDD Volume.xml
+C:\Users\TAO_Croatia\source\repos\HDD Volume\HDD Volume\obj\Debug\HDD Volume.pdb
